@@ -1,0 +1,32 @@
+/*
+				 Styles from http://bettermotherfuckingwebsite.com/
+				 You don't have to be original to make a decent website.
+			*/
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+}
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+/* my own styles */
+
+.flex {
+  display: flex;
+}
+
+.left {
+  float: left;
+}
+
+.spacing {
+  float: right;
+  margin-left: 20px;
+}
